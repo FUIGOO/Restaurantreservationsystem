@@ -1,0 +1,63 @@
+.cont1{
+  margin-top: 100px;
+
+}
+
+.r1{
+  margin-left: 2rem;
+  margin-top: 5rem;
+  width:25%;
+  height: 2rem;
+  border: 3px;
+  background-color: black;
+ 
+}
+
+.m1{
+  margin-left: 10;
+}
+
+.b1{
+  margin-left: 1rem;
+}
+
+.box1{
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.inp1{
+  transform: translateY(2rem);
+  
+}
+
+.date1{
+    padding: 10px;
+    border: 1px solid;
+    width: 10rem;
+    height: 5px;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 50px;
+    background-color: black;
+}
+
+.boxe1{
+  margin-left: 10rem;
+  background-color: black;
+  margin: 0%;
+}
+
+.boxe2{
+  background-color: black;
+margin: 0%;
+  transform: translateY(-9.5rem);
+
+}
+
+.boxe3{
+  background-color: black;
+  margin:0%;
+  transform: translateY(-19rem);
+}
